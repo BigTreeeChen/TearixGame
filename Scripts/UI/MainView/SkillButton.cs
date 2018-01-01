@@ -22,11 +22,12 @@ namespace TGame.UI
         private int mPressMode;
         private bool mIsPress;
         private bool mIsStarted = false;
-
+        private SkillButtonCD mSkillButtonCD;
         void Start()
         {
             list[mSlot] = this;
             mPressTweens = transform.Find("FrameCenter").GetComponentsInChildren<UITweener>();
+            mSkillButtonCD = GetComponent<SkillButtonCD>();
             mIsStarted = true;
         }
 
