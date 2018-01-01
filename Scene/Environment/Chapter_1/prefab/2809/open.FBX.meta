@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: e3e54549c172e5a4785b53212e81be30
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Box005
+    100002: door_000
+    100004: door_001
+    100006: door_002
+    100008: door_003
+    100010: door_004
+    100012: door_005
+    100014: door_006
+    100016: door_007
+    100018: door_008
+    100020: door_009
+    100022: door_010
+    100024: door_011
+    100026: door_012
+    100028: door_013
+    100030: door_014
+    100032: //RootNode
+    400000: Box005
+    400002: door_000
+    400004: door_001
+    400006: door_002
+    400008: door_003
+    400010: door_004
+    400012: door_005
+    400014: door_006
+    400016: door_007
+    400018: door_008
+    400020: door_009
+    400022: door_010
+    400024: door_011
+    400026: door_012
+    400028: door_013
+    400030: door_014
+    400032: //RootNode
+    2300000: Box005
+    2300002: door_000
+    2300004: door_001
+    2300006: door_002
+    2300008: door_003
+    2300010: door_004
+    2300012: door_005
+    2300014: door_006
+    2300016: door_007
+    2300018: door_008
+    2300020: door_009
+    2300022: door_010
+    2300024: door_011
+    2300026: door_012
+    2300028: door_013
+    2300030: door_014
+    3300000: Box005
+    3300002: door_000
+    3300004: door_001
+    3300006: door_002
+    3300008: door_003
+    3300010: door_004
+    3300012: door_005
+    3300014: door_006
+    3300016: door_007
+    3300018: door_008
+    3300020: door_009
+    3300022: door_010
+    3300024: door_011
+    3300026: door_012
+    3300028: door_013
+    3300030: door_014
+    4300000: Box005
+    4300002: door_001
+    4300004: door_002
+    4300006: door_003
+    4300008: door_004
+    4300010: door_005
+    4300012: door_006
+    4300014: door_007
+    4300016: door_000
+    4300018: door_009
+    4300020: door_010
+    4300022: door_011
+    4300024: door_012
+    4300026: door_013
+    4300028: door_014
+    4300030: door_008
+    7400000: open
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: open
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 75
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: .997996032
+        functionName: ani
+        data: end
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box005
+        weight: 1
+      - path: door_000
+        weight: 1
+      - path: door_001
+        weight: 1
+      - path: door_002
+        weight: 1
+      - path: door_003
+        weight: 1
+      - path: door_004
+        weight: 1
+      - path: door_005
+        weight: 1
+      - path: door_006
+        weight: 1
+      - path: door_007
+        weight: 1
+      - path: door_008
+        weight: 1
+      - path: door_009
+        weight: 1
+      - path: door_010
+        weight: 1
+      - path: door_011
+        weight: 1
+      - path: door_012
+        weight: 1
+      - path: door_013
+        weight: 1
+      - path: door_014
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 2
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 2
+    tangentImportMode: 2
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: d43574e1c58058e499ea0621eb38143a,
+    type: 3}
+  animationType: 2
+  additionalBone: 0
+  userData: 

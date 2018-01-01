@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 8ac9e0da1e603d546aff6c3a9b0eda52
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: f_1131_ditai
+    100002: //RootNode
+    100004: floor001
+    100006: Object001
+    100008: Object008
+    100010: Plane003
+    100012: Plane003 1
+    100014: Plane005
+    100016: Plane008
+    100018: Object009
+    100020: floor002
+    100022: Group5591
+    100024: Object011
+    100026: Object013
+    100028: Object014
+    100030: Object015
+    100032: Object016
+    100034: Object016 1
+    400000: f_1131_ditai
+    400002: //RootNode
+    400004: floor001
+    400006: Object001
+    400008: Object008
+    400010: Plane003
+    400012: Plane003 1
+    400014: Plane005
+    400016: Plane008
+    400018: Object009
+    400020: floor002
+    400022: Group5591
+    400024: Object011
+    400026: Object013
+    400028: Object014
+    400030: Object015
+    400032: Object016
+    400034: Object016 1
+    2300000: f_1131_ditai
+    2300002: floor001
+    2300004: Object001
+    2300006: Object008
+    2300008: Plane003
+    2300010: Plane003 1
+    2300012: Plane005
+    2300014: Plane008
+    2300016: Object009
+    2300018: floor002
+    2300020: Group5591
+    2300022: Object011
+    2300024: Object013
+    2300026: Object014
+    2300028: Object015
+    2300030: Object016
+    2300032: Object016 1
+    3300000: f_1131_ditai
+    3300002: floor001
+    3300004: Object001
+    3300006: Object008
+    3300008: Plane003
+    3300010: Plane003 1
+    3300012: Plane005
+    3300014: Plane008
+    3300016: Object009
+    3300018: floor002
+    3300020: Group5591
+    3300022: Object011
+    3300024: Object013
+    3300026: Object014
+    3300028: Object015
+    3300030: Object016
+    3300032: Object016 1
+    4300000: Plane003
+    4300002: Object001
+    4300004: Plane005
+    4300006: Plane003
+    4300008: floor001
+    4300010: f_1131_ditai
+    4300012: Object008
+    4300014: Plane008
+    4300016: Object009
+    4300018: floor002
+    4300020: Group5591
+    4300022: Object011
+    4300024: Object013
+    4300026: Object014
+    4300028: Object015
+    4300030: Object016
+    4300032: Object016
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 2
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 180
+    splitTangentsAcrossUV: 1
+    normalImportMode: 2
+    tangentImportMode: 2
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

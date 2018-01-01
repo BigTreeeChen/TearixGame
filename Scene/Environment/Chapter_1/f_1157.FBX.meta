@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 940ebb2ab9bc5b6448964050ef85be96
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: f_1157_ground
+    100004: f_1157_ground_col
+    100006: f_1157_terrain
+    100008: f_1157_water01
+    100010: f_1157_water02
+    100012: f_1157_water03
+    100014: f_1157_water04
+    100016: f_1157_waterfall_a
+    100018: f_1157_waterfall_b
+    100020: f_1157_waterfall_c
+    100022: f_1157_terrain_col
+    100024: f_1157_terrain_stone
+    100026: f_1157_terrain02
+    100028: f_1157_terrain003
+    400000: //RootNode
+    400002: f_1157_ground
+    400004: f_1157_ground_col
+    400006: f_1157_terrain
+    400008: f_1157_water01
+    400010: f_1157_water02
+    400012: f_1157_water03
+    400014: f_1157_water04
+    400016: f_1157_waterfall_a
+    400018: f_1157_waterfall_b
+    400020: f_1157_waterfall_c
+    400022: f_1157_terrain_col
+    400024: f_1157_terrain_stone
+    400026: f_1157_terrain02
+    400028: f_1157_terrain003
+    2300000: //RootNode
+    2300002: f_1157_ground
+    2300004: f_1157_ground_col
+    2300006: f_1157_terrain
+    2300008: f_1157_water01
+    2300010: f_1157_water02
+    2300012: f_1157_water03
+    2300014: f_1157_water04
+    2300016: f_1157_waterfall_a
+    2300018: f_1157_waterfall_b
+    2300020: f_1157_waterfall_c
+    2300022: f_1157_terrain_col
+    2300024: f_1157_terrain_stone
+    2300026: f_1157_terrain02
+    2300028: f_1157_terrain003
+    3300000: //RootNode
+    3300002: f_1157_ground
+    3300004: f_1157_ground_col
+    3300006: f_1157_terrain
+    3300008: f_1157_water01
+    3300010: f_1157_water02
+    3300012: f_1157_water03
+    3300014: f_1157_water04
+    3300016: f_1157_waterfall_a
+    3300018: f_1157_waterfall_b
+    3300020: f_1157_waterfall_c
+    3300022: f_1157_terrain_col
+    3300024: f_1157_terrain_stone
+    3300026: f_1157_terrain02
+    3300028: f_1157_terrain003
+    4300000: f_1157_ground
+    4300002: f_1157
+    4300004: f_1157_ground_col
+    4300006: f_1157_water03
+    4300008: f_1157_water04
+    4300010: f_1157_water02
+    4300012: f_1157_water01
+    4300014: f_1157_terrain
+    4300016: f_1157_waterfall_a
+    4300018: f_1157_waterfall_b
+    4300020: f_1157_waterfall_c
+    4300022: f_1157_terrain_stone
+    4300024: f_1157_terrain_col
+    4300026: f_1157_terrain02
+    4300028: f_1157_terrain003
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 2
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 180
+    splitTangentsAcrossUV: 1
+    normalImportMode: 2
+    tangentImportMode: 2
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

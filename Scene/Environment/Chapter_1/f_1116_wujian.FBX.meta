@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: 669f96737773742448618c078d03666f
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Cylinder001
+    100002: Cylinder002
+    100004: Cylinder004
+    100006: Cylinder006
+    100008: //RootNode
+    100010: Group21106
+    100012: Object001
+    100014: Object002
+    100016: Object003
+    100018: Object004
+    100020: Object016
+    100022: Object023
+    100024: Object025
+    100026: Object027
+    100028: Object029
+    100030: Object031
+    100032: Object032
+    100034: Group55267
+    100036: Group55267dd
+    100038: Group55268
+    100040: Group55268 1
+    100042: Object001 1
+    100044: Plane001
+    100046: f_1116_floor_a01
+    100048: f_1116_floor_a02
+    100050: Object033
+    100052: Object034
+    100054: Object035
+    100056: f_106_frool_01
+    100058: f_106_frool_04
+    100060: f_106_frool_05
+    100062: d_106_egg_04
+    400000: Cylinder001
+    400002: Cylinder002
+    400004: Cylinder004
+    400006: Cylinder006
+    400008: //RootNode
+    400010: Group21106
+    400012: Object001
+    400014: Object002
+    400016: Object003
+    400018: Object004
+    400020: Object016
+    400022: Object023
+    400024: Object025
+    400026: Object027
+    400028: Object029
+    400030: Object031
+    400032: Object032
+    400034: Group55267
+    400036: Group55267dd
+    400038: Group55268
+    400040: Group55268 1
+    400042: Object001 1
+    400044: Plane001
+    400046: f_1116_floor_a01
+    400048: f_1116_floor_a02
+    400050: Object033
+    400052: Object034
+    400054: Object035
+    400056: f_106_frool_01
+    400058: f_106_frool_04
+    400060: f_106_frool_05
+    400062: d_106_egg_04
+    2300000: Cylinder001
+    2300002: Cylinder002
+    2300004: Cylinder004
+    2300006: Cylinder006
+    2300008: Group21106
+    2300010: Object001
+    2300012: Object002
+    2300014: Object003
+    2300016: Object004
+    2300018: Object016
+    2300020: Object023
+    2300022: Object025
+    2300024: Object027
+    2300026: Object029
+    2300028: Object031
+    2300030: Object032
+    2300032: Group55267
+    2300034: Group55267dd
+    2300036: //RootNode
+    2300038: Group55268
+    2300040: Group55268 1
+    2300042: Object001 1
+    2300044: Plane001
+    2300046: f_1116_floor_a01
+    2300048: f_1116_floor_a02
+    2300050: Object033
+    2300052: Object034
+    2300054: Object035
+    2300056: f_106_frool_01
+    2300058: f_106_frool_04
+    2300060: f_106_frool_05
+    2300062: d_106_egg_04
+    3300000: Cylinder001
+    3300002: Cylinder002
+    3300004: Cylinder004
+    3300006: Cylinder006
+    3300008: Group21106
+    3300010: Object001
+    3300012: Object002
+    3300014: Object003
+    3300016: Object004
+    3300018: Object016
+    3300020: Object023
+    3300022: Object025
+    3300024: Object027
+    3300026: Object029
+    3300028: Object031
+    3300030: Object032
+    3300032: Group55267
+    3300034: Group55267dd
+    3300036: //RootNode
+    3300038: Group55268
+    3300040: Group55268 1
+    3300042: Object001 1
+    3300044: Plane001
+    3300046: f_1116_floor_a01
+    3300048: f_1116_floor_a02
+    3300050: Object033
+    3300052: Object034
+    3300054: Object035
+    3300056: f_106_frool_01
+    3300058: f_106_frool_04
+    3300060: f_106_frool_05
+    3300062: d_106_egg_04
+    4300000: Object016
+    4300002: Object001
+    4300004: Object023
+    4300006: Object025
+    4300008: Cylinder002
+    4300010: Cylinder006
+    4300012: Cylinder004
+    4300014: Object003
+    4300016: Object002
+    4300018: Object004
+    4300020: Cylinder001
+    4300022: Group21106
+    4300024: Object027
+    4300026: Object029
+    4300028: Object031
+    4300030: Object032
+    4300032: Group55267
+    4300034: Group55267dd
+    4300036: Group55268
+    4300038: Group55268
+    4300040: Object001
+    4300042: Plane001
+    4300044: f_1116_floor_a02
+    4300046: f_1116_floor_a01
+    4300048: Object033
+    4300050: Object034
+    4300052: Object035
+    4300054: f_106_frool_01
+    4300056: f_106_frool_05
+    4300058: f_106_frool_04
+    4300060: d_106_egg_04
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 2
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 180
+    splitTangentsAcrossUV: 1
+    normalImportMode: 2
+    tangentImportMode: 2
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

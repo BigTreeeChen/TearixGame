@@ -1,0 +1,175 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: tx_2232_light
+  m_Shader: {fileID: 4800000, guid: ba1df110898d56e4daa1964ea3ca1780, type: 3}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 9b46de6ec755ef14c93c24bb9fa2927c, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _SpecularIllumOther
+        second:
+          m_Texture: {fileID: 2800000, guid: f94b4dcfd0baa8840b27d1d33c01f93f, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Cube
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _RefStrength
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Illum
+        second:
+          m_Texture: {fileID: 2800000, guid: f94b4dcfd0baa8840b27d1d33c01f93f, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _IlluminAlpha
+        second:
+          m_Texture: {fileID: 2800000, guid: f94b4dcfd0baa8840b27d1d33c01f93f, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _FlowTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _IlluminFlow
+        second:
+          m_Texture: {fileID: 2800000, guid: f94b4dcfd0baa8840b27d1d33c01f93f, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _SpecularIllum
+        second:
+          m_Texture: {fileID: 2800000, guid: f94b4dcfd0baa8840b27d1d33c01f93f, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _UVInlumminTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Shininess
+        second: .00999999978
+      data:
+        first:
+          name: _IllumStrength
+        second: 2
+      data:
+        first:
+          name: _CubeSize
+        second: 3
+      data:
+        first:
+          name: _CubeStrength
+        second: .379999995
+      data:
+        first:
+          name: _EmissionLM
+        second: 0
+      data:
+        first:
+          name: _SpeedU
+        second: 0
+      data:
+        first:
+          name: _SpeedV
+        second: -.0500000007
+      data:
+        first:
+          name: _FlowAdd
+        second: 5
+      data:
+        first:
+          name: _OuterThick
+        second: .109999999
+      data:
+        first:
+          name: _BaseAdd
+        second: .0399999991
+      data:
+        first:
+          name: _RimPower
+        second: 2.54999995
+      data:
+        first:
+          name: _MaxPower
+        second: 1.57000005
+      data:
+        first:
+          name: _AddLight
+        second: 2
+      data:
+        first:
+          name: _AllAlpha
+        second: 1
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: .742647052, g: .668156385, b: .507839501, a: 1}
+      data:
+        first:
+          name: _SpecColor
+        second: {r: .580882311, g: .861257732, b: 1, a: 0}
+      data:
+        first:
+          name: _OtherColor
+        second: {r: 1, g: .920689642, b: .75, a: 1}
+      data:
+        first:
+          name: _IllumColor
+        second: {r: 1, g: 1, b: 1, a: 0}
+      data:
+        first:
+          name: _ReflectColor
+        second: {r: 1, g: 1, b: 1, a: .5}
+      data:
+        first:
+          name: _FlowSpeed
+        second: {r: 0, g: 1, b: 0, a: 0}
+      data:
+        first:
+          name: _DetailColor
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _IlluminlColor
+        second: {r: 1, g: 1, b: 1, a: 1}

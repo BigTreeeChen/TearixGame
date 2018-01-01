@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 2902_list
+  m_Controller: {fileID: 9100000, guid: ddf01a8ce20ec5e43891f53fb361b241, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: ceb4b2effc2e2ad4b80a0200a15a60b0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cffccca30f297424db35b5a7f67f7c54, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8e03c970d13d1e74ab648582285aa13b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 548073e1214c9074dbf3adb579127134, type: 2}

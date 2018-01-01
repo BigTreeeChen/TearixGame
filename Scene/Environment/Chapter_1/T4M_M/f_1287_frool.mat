@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: f_1287_frool
+  m_Shader: {fileID: 4800000, guid: 0ede9d0fca249f840be13f1330875dfd, type: 3}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _Control
+        second:
+          m_Texture: {fileID: 2800000, guid: a61e819a93c380a45b577ba49b3ea9f3, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Splat0
+        second:
+          m_Texture: {fileID: 2800000, guid: 5ff817b50a4861047b36cc9b4546d953, type: 3}
+          m_Scale: {x: 12, y: 12}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Splat1
+        second:
+          m_Texture: {fileID: 2800000, guid: eec6880327e14744f8af7e61331dbaeb, type: 3}
+          m_Scale: {x: 13, y: 13}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Splat2
+        second:
+          m_Texture: {fileID: 2800000, guid: 44b80355913a75f4c8dae4dafa265acd, type: 3}
+          m_Scale: {x: 17, y: 17}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Splat3
+        second:
+          m_Texture: {fileID: 2800000, guid: f67bb924f92f54a42a9f0101427065da, type: 3}
+          m_Scale: {x: 12, y: 12}
+          m_Offset: {x: 0, y: 0}
+    m_Floats: {}
+    m_Colors: {}

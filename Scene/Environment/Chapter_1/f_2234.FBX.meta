@@ -1,0 +1,115 @@
+fileFormatVersion: 2
+guid: 3278841eb4fcfc2469e658b2c1c87b0e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: f_2234_ground_a
+    100004: f_2234_ground_b
+    100006: f_2234_ground_c
+    100008: f_2234_stair
+    100010: f_2234_tree
+    100012: f_2234_brick_a
+    100014: f_2234_brick_b
+    100016: f_2234_ground_col
+    100018: f_2234_grass
+    100020: f_2234_grass02
+    400000: //RootNode
+    400002: f_2234_ground_a
+    400004: f_2234_ground_b
+    400006: f_2234_ground_c
+    400008: f_2234_stair
+    400010: f_2234_tree
+    400012: f_2234_brick_a
+    400014: f_2234_brick_b
+    400016: f_2234_ground_col
+    400018: f_2234_grass
+    400020: f_2234_grass02
+    2300000: //RootNode
+    2300002: f_2234_ground_a
+    2300004: f_2234_ground_b
+    2300006: f_2234_ground_c
+    2300008: f_2234_stair
+    2300010: f_2234_tree
+    2300012: f_2234_brick_a
+    2300014: f_2234_brick_b
+    2300016: f_2234_ground_col
+    2300018: f_2234_grass
+    2300020: f_2234_grass02
+    3300000: //RootNode
+    3300002: f_2234_ground_a
+    3300004: f_2234_ground_b
+    3300006: f_2234_ground_c
+    3300008: f_2234_stair
+    3300010: f_2234_tree
+    3300012: f_2234_brick_a
+    3300014: f_2234_brick_b
+    3300016: f_2234_ground_col
+    3300018: f_2234_grass
+    3300020: f_2234_grass02
+    4300000: f_2234_ground
+    4300002: f_2234_ground_a
+    4300004: f_2234_ground_c
+    4300006: f_2234_ground_b
+    4300008: f_2234_stair
+    4300010: f_2234_tree
+    4300012: f_2234_brick_a
+    4300014: f_2234_brick_b
+    4300016: f_2234_ground_col
+    4300018: f_2234_grass
+    4300020: f_2234_grass02
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 2
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 180
+    splitTangentsAcrossUV: 1
+    normalImportMode: 2
+    tangentImportMode: 2
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

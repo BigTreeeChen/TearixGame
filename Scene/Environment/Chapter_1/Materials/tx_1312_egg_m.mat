@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: tx_1312_egg_m
+  m_Shader: {fileID: 4800000, guid: f75fbb8eedfc2484bbf7da1146997675, type: 3}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 37e65c09df77af64bbefacba07b92906, type: 3}
+          m_Scale: {x: .699999988, y: .699999988}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _NoiseTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 1e975d8bff0b18e4586ec5753e09b9fe, type: 3}
+          m_Scale: {x: .5, y: .5}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _MaskTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 1e975d8bff0b18e4586ec5753e09b9fe, type: 3}
+          m_Scale: {x: .100000001, y: .100000001}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _RimPower
+        second: 1.625
+      data:
+        first:
+          name: _Range
+        second: .0250000004
+      data:
+        first:
+          name: _Section
+        second: 0
+      data:
+        first:
+          name: _Distrub
+        second: .142857149
+      data:
+        first:
+          name: _Period
+        second: 4
+      data:
+        first:
+          name: _Offset
+        second: 2
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: .117647052, g: .0303901676, b: .0285467096, a: 1}
+      data:
+        first:
+          name: _RimColor
+        second: {r: .573529422, g: .283623666, b: .198205009, a: 1}
+      data:
+        first:
+          name: _Speed
+        second: {r: -55, g: .100000001, b: .100000001, a: .100000001}
+      data:
+        first:
+          name: _PixSpeed
+        second: {r: -11, g: -1, b: .100000001, a: .100000001}
+      data:
+        first:
+          name: _OutputColor
+        second: {r: .595588207, g: 0, b: 0, a: 1}

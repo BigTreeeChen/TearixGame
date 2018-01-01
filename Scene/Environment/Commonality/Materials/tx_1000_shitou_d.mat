@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: tx_1000_shitou_d
+  m_Shader: {fileID: 4800000, guid: 3453c3416ccf2f541818653d1f64da48, type: 3}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 99e369d0c3c5e0549a89aa31c91f7dc5, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 2800000, guid: 46b72b86a059dd848ba72aa5b276b3e1, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _SpecularIllumOther
+        second:
+          m_Texture: {fileID: 2800000, guid: 99e369d0c3c5e0549a89aa31c91f7dc5, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DissolveSrc
+        second:
+          m_Texture: {fileID: 2800000, guid: cf8d5606ef9e4824cb05b3eaf5c4ad47, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _SpecularIllum
+        second:
+          m_Texture: {fileID: 2800000, guid: 917ebd5407ec2904587e0ab1a59b6a8d, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _AllAlpha
+        second: 1
+      data:
+        first:
+          name: _Shininess
+        second: .441747248
+      data:
+        first:
+          name: _IllumStrength
+        second: 1
+      data:
+        first:
+          name: _RimPower
+        second: 5
+      data:
+        first:
+          name: _OuterThick
+        second: .142857149
+      data:
+        first:
+          name: _MaxPower
+        second: 1.85571444
+      data:
+        first:
+          name: _InnerThick
+        second: -.357142866
+      data:
+        first:
+          name: _Amount
+        second: .5
+      data:
+        first:
+          name: _StartAmount
+        second: .100000001
+      data:
+        first:
+          name: _BaseAdd
+        second: .0399999991
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _SpecColor
+        second: {r: .236159176, g: .617647052, b: .617647052, a: 1}
+      data:
+        first:
+          name: _IllumColor
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _OtherColor
+        second: {r: .606996119, g: .745140016, b: .801470578, a: 1}
+      data:
+        first:
+          name: _RimColor
+        second: {r: .279411793, g: .260822117, b: .110942923, a: .419607848}
+      data:
+        first:
+          name: _DissColor
+        second: {r: 1, g: 1, b: 1, a: 1}

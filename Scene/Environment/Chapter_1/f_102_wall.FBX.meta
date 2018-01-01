@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: b2a243feaeb73174fa910da6dc542dd6
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: w_102_wal10
+    100004: w_102_wall01
+    100006: w_102_wall02
+    100008: w_102_wall03
+    100010: w_102_wall04
+    100012: w_102_wall05
+    100014: w_102_wall06
+    100016: w_102_wall07
+    100018: w_102_wall08
+    100020: w_102_wall09
+    100022: w_102_wall11
+    100024: w_102_wall12
+    100026: w_102_wall12 1
+    100028: w_102_wall13
+    100030: w_102_wall14
+    100032: w_102_wall15
+    100034: w_102_wall16
+    100036: f_1102_wangzuo
+    100038: w_103_wall_05
+    400000: //RootNode
+    400002: w_102_wal10
+    400004: w_102_wall01
+    400006: w_102_wall02
+    400008: w_102_wall03
+    400010: w_102_wall04
+    400012: w_102_wall05
+    400014: w_102_wall06
+    400016: w_102_wall07
+    400018: w_102_wall08
+    400020: w_102_wall09
+    400022: w_102_wall11
+    400024: w_102_wall12
+    400026: w_102_wall12 1
+    400028: w_102_wall13
+    400030: w_102_wall14
+    400032: w_102_wall15
+    400034: w_102_wall16
+    400036: f_1102_wangzuo
+    400038: w_103_wall_05
+    2300000: w_102_wal10
+    2300002: w_102_wall01
+    2300004: w_102_wall02
+    2300006: w_102_wall03
+    2300008: w_102_wall04
+    2300010: w_102_wall05
+    2300012: w_102_wall06
+    2300014: w_102_wall07
+    2300016: w_102_wall08
+    2300018: w_102_wall09
+    2300020: w_102_wall11
+    2300022: w_102_wall12
+    2300024: w_102_wall12 1
+    2300026: w_102_wall13
+    2300028: w_102_wall14
+    2300030: w_102_wall15
+    2300032: w_102_wall16
+    2300034: f_1102_wangzuo
+    2300036: w_103_wall_05
+    3300000: w_102_wal10
+    3300002: w_102_wall01
+    3300004: w_102_wall02
+    3300006: w_102_wall03
+    3300008: w_102_wall04
+    3300010: w_102_wall05
+    3300012: w_102_wall06
+    3300014: w_102_wall07
+    3300016: w_102_wall08
+    3300018: w_102_wall09
+    3300020: w_102_wall11
+    3300022: w_102_wall12
+    3300024: w_102_wall12 1
+    3300026: w_102_wall13
+    3300028: w_102_wall14
+    3300030: w_102_wall15
+    3300032: w_102_wall16
+    3300034: f_1102_wangzuo
+    3300036: w_103_wall_05
+    4300000: w_102_wall05
+    4300002: w_102_wall01
+    4300004: w_102_wall02
+    4300006: w_102_wall06
+    4300008: w_102_wall03
+    4300010: w_102_wall12
+    4300012: w_102_wall04
+    4300014: w_102_wall08
+    4300016: w_102_wall11
+    4300018: w_102_wal10
+    4300020: w_102_wall09
+    4300022: w_102_wall07
+    4300024: w_102_wall13
+    4300026: w_102_wall15
+    4300028: w_102_wall16
+    4300030: w_102_wall14
+    4300032: w_102_wall12
+    4300034: f_1102_wangzuo
+    4300036: w_103_wall_05
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 2
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 180
+    splitTangentsAcrossUV: 1
+    normalImportMode: 2
+    tangentImportMode: 2
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

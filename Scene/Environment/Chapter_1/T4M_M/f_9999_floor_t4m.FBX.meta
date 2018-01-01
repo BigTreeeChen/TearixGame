@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: be8311c67709d5949abae1fa2f6829a4
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Object003
+    100004: Unity_terrain
+    100006: default001
+    100008: diaoche
+    100010: f_foliage_005
+    100012: f_foliage_03
+    100014: f_foliage_06
+    100016: mutou
+    100018: Object001
+    100020: terrain02
+    100022: terrain001
+    100024: terrain002
+    100026: terrain004
+    100028: Unity_terrain09
+    400000: //RootNode
+    400002: Object003
+    400004: Unity_terrain
+    400006: default001
+    400008: diaoche
+    400010: f_foliage_005
+    400012: f_foliage_03
+    400014: f_foliage_06
+    400016: mutou
+    400018: Object001
+    400020: terrain02
+    400022: terrain001
+    400024: terrain002
+    400026: terrain004
+    400028: Unity_terrain09
+    2300000: Object003
+    2300002: Unity_terrain
+    2300004: diaoche
+    2300006: f_foliage_005
+    2300008: f_foliage_03
+    2300010: f_foliage_06
+    2300012: mutou
+    2300014: Object001
+    2300016: terrain02
+    2300018: terrain001
+    2300020: terrain002
+    2300022: terrain004
+    2300024: Unity_terrain09
+    3300000: Object003
+    3300002: Unity_terrain
+    3300004: diaoche
+    3300006: f_foliage_005
+    3300008: f_foliage_03
+    3300010: f_foliage_06
+    3300012: mutou
+    3300014: Object001
+    3300016: terrain02
+    3300018: terrain001
+    3300020: terrain002
+    3300022: terrain004
+    3300024: Unity_terrain09
+    4300000: Unity_terrain
+    4300002: Object003
+    4300004: diaoche
+    4300006: f_foliage_03
+    4300008: Object001
+    4300010: mutou
+    4300012: f_foliage_005
+    4300014: f_foliage_06
+    4300016: terrain02
+    4300018: terrain001
+    4300020: terrain002
+    4300022: terrain004
+    4300024: Unity_terrain09
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 2
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 180
+    splitTangentsAcrossUV: 1
+    normalImportMode: 2
+    tangentImportMode: 2
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

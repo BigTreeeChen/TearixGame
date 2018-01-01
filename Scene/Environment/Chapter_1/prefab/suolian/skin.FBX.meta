@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: f74f5464f7fedf44a80a6fedd6b80d81
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bone040
+    100002: Bone041
+    100004: Bone042
+    100006: Bone043
+    100008: Bone068
+    100010: //RootNode
+    100012: suolian
+    100014: Bone045
+    100016: Bone046
+    100018: Bone047
+    100020: Bone048
+    100022: Bone049
+    100024: Bone050
+    100026: Bone051
+    100028: Bone052
+    100030: suolian_01
+    100032: Bone044
+    100034: Bone053
+    100036: Bone054
+    100038: Bone055
+    100040: Bone056
+    100042: Bone057
+    100044: Bone058
+    100046: Bone059
+    100048: Bone060
+    100050: Bone061
+    100052: Bone062
+    100054: Bone063
+    100056: Bone064
+    100058: Bone065
+    100060: Bone066
+    100062: Bone067
+    100064: suolian 1
+    100066: suolian_01 1
+    400000: Bone040
+    400002: Bone041
+    400004: Bone042
+    400006: Bone043
+    400008: Bone068
+    400010: //RootNode
+    400012: suolian
+    400014: Bone045
+    400016: Bone046
+    400018: Bone047
+    400020: Bone048
+    400022: Bone049
+    400024: Bone050
+    400026: Bone051
+    400028: Bone052
+    400030: suolian_01
+    400032: Bone044
+    400034: Bone053
+    400036: Bone054
+    400038: Bone055
+    400040: Bone056
+    400042: Bone057
+    400044: Bone058
+    400046: Bone059
+    400048: Bone060
+    400050: Bone061
+    400052: Bone062
+    400054: Bone063
+    400056: Bone064
+    400058: Bone065
+    400060: Bone066
+    400062: Bone067
+    400064: suolian 1
+    400066: suolian_01 1
+    2300000: suolian
+    2300002: suolian 1
+    2300004: suolian_01
+    2300006: suolian_01 1
+    3300000: suolian
+    3300002: suolian 1
+    3300004: suolian_01
+    3300006: suolian_01 1
+    4300000: suolian
+    4300002: suolian_01
+    4300004: suolian_01
+    4300006: suolian
+    7400000: suolian
+    7400002: Take 001
+    7400004: suolian //// Bone068
+    9500000: //RootNode
+    11100000: //RootNode
+    11100002: Bone040
+    11100004: Bone041
+    11100006: Bone042
+    11100008: Bone043
+    11100010: Bone044
+    11100012: Bone045
+    11100014: Bone046
+    11100016: Bone047
+    11100018: Bone048
+    11100020: Bone049
+    11100022: Bone050
+    11100024: Bone051
+    11100026: Bone052
+    11100028: Bone053
+    11100030: Bone054
+    11100032: Bone055
+    11100034: Bone056
+    11100036: Bone057
+    11100038: Bone058
+    11100040: Bone059
+    11100042: Bone060
+    11100044: Bone061
+    11100046: Bone062
+    11100048: Bone063
+    11100050: Bone064
+    11100052: Bone065
+    11100054: Bone066
+    11100056: Bone067
+    11100058: Bone068
+    11100060: suolian
+    11100062: suolian 1
+    11100064: suolian_01
+    11100066: suolian_01 1
+    13700000: suolian
+    13700002: suolian_01
+    13700004: suolian 1
+    13700006: suolian_01 1
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 2
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: suolian
+      takeName: suolian
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone068
+        weight: 1
+      - path: Bone068/Bone040
+        weight: 1
+      - path: Bone068/Bone040/Bone041
+        weight: 1
+      - path: Bone068/Bone040/Bone041/Bone042
+        weight: 1
+      - path: Bone068/Bone040/Bone041/Bone042/Bone043
+        weight: 1
+      - path: Bone068/Bone040/Bone041/Bone042/Bone043/Bone044
+        weight: 1
+      - path: Bone068/Bone045
+        weight: 1
+      - path: Bone068/Bone045/Bone046
+        weight: 1
+      - path: Bone068/Bone045/Bone046/Bone047
+        weight: 1
+      - path: Bone068/Bone045/Bone046/Bone047/Bone048
+        weight: 1
+      - path: Bone068/Bone045/Bone046/Bone047/Bone048/Bone049
+        weight: 1
+      - path: Bone068/Bone045/Bone046/Bone047/Bone048/Bone049/Bone050
+        weight: 1
+      - path: Bone068/Bone045/Bone046/Bone047/Bone048/Bone049/Bone050/Bone051
+        weight: 1
+      - path: Bone068/Bone045/Bone046/Bone047/Bone048/Bone049/Bone050/Bone051/Bone052
+        weight: 1
+      - path: Bone068/Bone045/Bone046/Bone047/Bone048/Bone049/Bone050/Bone051/Bone052/Bone053
+        weight: 1
+      - path: Bone068/Bone054
+        weight: 1
+      - path: Bone068/Bone054/Bone055
+        weight: 1
+      - path: Bone068/Bone054/Bone055/Bone056
+        weight: 1
+      - path: Bone068/Bone054/Bone055/Bone056/Bone057
+        weight: 1
+      - path: Bone068/Bone054/Bone055/Bone056/Bone057/Bone058
+        weight: 1
+      - path: Bone068/Bone054/Bone055/Bone056/Bone057/Bone058/Bone059
+        weight: 1
+      - path: Bone068/Bone054/Bone055/Bone056/Bone057/Bone058/Bone059/Bone060
+        weight: 1
+      - path: Bone068/Bone054/Bone055/Bone056/Bone057/Bone058/Bone059/Bone060/Bone061
+        weight: 1
+      - path: Bone068/Bone054/Bone055/Bone056/Bone057/Bone058/Bone059/Bone060/Bone061/Bone062
+        weight: 1
+      - path: Bone068/Bone063
+        weight: 1
+      - path: Bone068/Bone063/Bone064
+        weight: 1
+      - path: Bone068/Bone063/Bone064/Bone065
+        weight: 1
+      - path: Bone068/Bone063/Bone064/Bone065/Bone066
+        weight: 1
+      - path: Bone068/Bone063/Bone064/Bone065/Bone066/Bone067
+        weight: 1
+      - path: suolian
+        weight: 1
+      - path: suolian 1
+        weight: 1
+      - path: suolian_01
+        weight: 1
+      - path: suolian_01 1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 2
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 2
+    tangentImportMode: 2
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

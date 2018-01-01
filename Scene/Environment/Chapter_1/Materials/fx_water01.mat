@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: fx_water01
+  m_Shader: {fileID: 4800000, guid: b84185e077f91324188ded810e4e7d7b, type: 3}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 274b8ed1e76a70e4bb8f03c7fdb629b8, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 2800000, guid: fc299d7b4f09bc946bbd741986de82e1, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ReflectiveColorCube
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ReflectiveColor
+        second:
+          m_Texture: {fileID: 2800000, guid: ed3303c42aba6884ca43daa4d28e94bc, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _WaveScale
+        second: .0799999982
+      data:
+        first:
+          name: _FresnelPow
+        second: .800000012
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: WaveSpeed
+        second: {r: -1, g: -6, b: 5, a: -1}
+      data:
+        first:
+          name: _HorizonColor
+        second: {r: .0745097995, g: .65533483, b: 1, a: .600000024}
+      data:
+        first:
+          name: _WaveScale4
+        second: {r: .0799999982, g: .0799999982, b: .0320000015, a: .0359999985}
+      data:
+        first:
+          name: _WaveOffset
+        second: {r: -0, g: -0, b: -0, a: -0}

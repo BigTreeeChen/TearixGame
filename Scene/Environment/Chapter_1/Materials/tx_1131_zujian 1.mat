@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: tx_1131_zujian 1
+  m_Shader: {fileID: 4800000, guid: e41972b4e992f004b926d3b643651fec, type: 3}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 47f84ddf0941f624ea46c2c3cdfa0ad3, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Cube
+        second:
+          m_Texture: {fileID: 8900000, guid: b66d7d28b3db14f7382a2887575a3439, type: 2}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _RefStrength
+        second:
+          m_Texture: {fileID: 2800000, guid: df4465b0893e29747b50296097b6b0b3, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _IllumStrength
+        second: 1
+      data:
+        first:
+          name: _CubeSize
+        second: 3
+      data:
+        first:
+          name: _CubeStrength
+        second: 2
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: .506704152, g: .605879307, b: .970588207, a: 1}
+      data:
+        first:
+          name: _ReflectColor
+        second: {r: 1, g: 1, b: 1, a: .5}
+      data:
+        first:
+          name: _IllumColor
+        second: {r: .477941155, g: .477941155, b: .477941155, a: 0}

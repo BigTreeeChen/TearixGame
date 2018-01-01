@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: tx_2105_Thing_02
+  m_Shader: {fileID: 4800000, guid: 13eb8d19a21009f47aa31bc5f53ee9fe, type: 3}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: aa7b8059f54b63142995cceac1b0ae44, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Cube
+        second:
+          m_Texture: {fileID: 8900000, guid: b66d7d28b3db14f7382a2887575a3439, type: 2}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _SpecularIllumOther
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _RefStrength
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _IllumStrength
+        second: 1
+      data:
+        first:
+          name: _CubeSize
+        second: 2
+      data:
+        first:
+          name: _CubeStrength
+        second: 1
+      data:
+        first:
+          name: _EmissionLM
+        second: 0
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: .694409847, g: .739368618, b: .827450991, a: 1}
+      data:
+        first:
+          name: _IllumColor
+        second: {r: .16911763, g: .16911763, b: .16911763, a: 0}
+      data:
+        first:
+          name: _ReflectColor
+        second: {r: .997160256, g: 1, b: .992647052, a: .501960814}
+      data:
+        first:
+          name: _OtherColor
+        second: {r: 1, g: 1, b: 1, a: 1}

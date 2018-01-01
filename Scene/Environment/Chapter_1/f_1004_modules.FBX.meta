@@ -1,0 +1,92 @@
+fileFormatVersion: 2
+guid: fc71f09ebe495734db0cf59f75b31c10
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: f_1004_terrain03
+    100004: f_1004_terrain_stone02
+    100006: f_1004_woodbrigde_a
+    100008: f_1004_woodbrigde_b
+    100010: f_1004_tree_a
+    100012: f_1004_tree_b
+    400000: //RootNode
+    400002: f_1004_terrain03
+    400004: f_1004_terrain_stone02
+    400006: f_1004_woodbrigde_a
+    400008: f_1004_woodbrigde_b
+    400010: f_1004_tree_a
+    400012: f_1004_tree_b
+    2300000: f_1004_terrain03
+    2300002: f_1004_terrain_stone02
+    2300004: f_1004_woodbrigde_a
+    2300006: f_1004_woodbrigde_b
+    2300008: f_1004_tree_a
+    2300010: f_1004_tree_b
+    3300000: f_1004_terrain03
+    3300002: f_1004_terrain_stone02
+    3300004: f_1004_woodbrigde_a
+    3300006: f_1004_woodbrigde_b
+    3300008: f_1004_tree_a
+    3300010: f_1004_tree_b
+    4300000: f_1004_terrain_stone02
+    4300002: f_1004_terrain03
+    4300004: f_1004_woodbrigde_a
+    4300006: f_1004_woodbrigde_b
+    4300008: f_1004_tree_a
+    4300010: f_1004_tree_b
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 2
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 180
+    splitTangentsAcrossUV: 1
+    normalImportMode: 2
+    tangentImportMode: 2
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

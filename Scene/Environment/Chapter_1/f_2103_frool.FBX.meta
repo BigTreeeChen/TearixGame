@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: e2c264322d4ca7745b1a6d80a9e3e132
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: f_2102_frool_0013
+    100002: f_2102_frool_0022
+    100004: f_2102_frool_0033
+    100006: f_2102_frool_0043
+    100008: f_2102_frool_0046
+    100010: f_2102_frool_0051
+    100012: f_2102_frool_0062
+    100014: f_2102_frool_008
+    100016: f_2102_frool_0086
+    100018: f_2102_frool_0094
+    100020: f_2102_frool_0102
+    100022: f_2102_frool_0112
+    100024: //RootNode
+    100026: f_2102_frool_0122
+    100028: Cube
+    100030: f_2102_frool_0047
+    100032: Object001
+    400000: f_2102_frool_0013
+    400002: f_2102_frool_0022
+    400004: f_2102_frool_0033
+    400006: f_2102_frool_0043
+    400008: f_2102_frool_0046
+    400010: f_2102_frool_0051
+    400012: f_2102_frool_0062
+    400014: f_2102_frool_008
+    400016: f_2102_frool_0086
+    400018: f_2102_frool_0094
+    400020: f_2102_frool_0102
+    400022: f_2102_frool_0112
+    400024: //RootNode
+    400026: f_2102_frool_0122
+    400028: Cube
+    400030: f_2102_frool_0047
+    400032: Object001
+    2300000: f_2102_frool_0013
+    2300002: f_2102_frool_0022
+    2300004: f_2102_frool_0033
+    2300006: f_2102_frool_0043
+    2300008: f_2102_frool_0046
+    2300010: f_2102_frool_0051
+    2300012: f_2102_frool_0062
+    2300014: f_2102_frool_008
+    2300016: f_2102_frool_0086
+    2300018: f_2102_frool_0094
+    2300020: f_2102_frool_0102
+    2300022: f_2102_frool_0112
+    2300024: f_2102_frool_0122
+    2300026: Cube
+    2300028: f_2102_frool_0047
+    2300030: Object001
+    3300000: f_2102_frool_0013
+    3300002: f_2102_frool_0022
+    3300004: f_2102_frool_0033
+    3300006: f_2102_frool_0043
+    3300008: f_2102_frool_0046
+    3300010: f_2102_frool_0051
+    3300012: f_2102_frool_0062
+    3300014: f_2102_frool_008
+    3300016: f_2102_frool_0086
+    3300018: f_2102_frool_0094
+    3300020: f_2102_frool_0102
+    3300022: f_2102_frool_0112
+    3300024: f_2102_frool_0122
+    3300026: Cube
+    3300028: f_2102_frool_0047
+    3300030: Object001
+    4300000: f_2102_frool_0043
+    4300002: f_2102_frool_0051
+    4300004: f_2102_frool_0062
+    4300006: f_2102_frool_0094
+    4300008: f_2102_frool_0033
+    4300010: f_2102_frool_0022
+    4300012: f_2102_frool_0086
+    4300014: f_2102_frool_0046
+    4300016: f_2102_frool_0013
+    4300018: f_2102_frool_0102
+    4300020: f_2102_frool_0112
+    4300022: f_2102_frool_008
+    4300024: f_2102_frool_0122
+    4300026: Cube
+    4300028: f_2102_frool_0047
+    4300030: Object001
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 2
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 180
+    splitTangentsAcrossUV: 1
+    normalImportMode: 2
+    tangentImportMode: 2
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

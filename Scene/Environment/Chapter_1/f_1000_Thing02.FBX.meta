@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 64ad59cb129283744aff44703d3e72e0
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: ' 1'
+    100002: d_1140_table
+    100004: d_1140_windmill
+    100006: d_1140_windmill001
+    100008: //RootNode
+    100010: w_1140_portal_a
+    100012: w_1140_portal_b
+    100014: w_1140_portal_c
+    100016: w_1140_portal_a1
+    100018: w_1140_portal_a2
+    100020: d_1118_wall03
+    100022: d_1118_wall004
+    100024: d_1118_wall005
+    100026: d_1118_wall006
+    100028: d_1118_wall007
+    100030: d_1118_wall008
+    100032: d_1118_wall009
+    100034: d_1118_wall010
+    100036: d_1118_wall011
+    400000: ' 1'
+    400002: d_1140_table
+    400004: d_1140_windmill
+    400006: d_1140_windmill001
+    400008: //RootNode
+    400010: w_1140_portal_a
+    400012: w_1140_portal_b
+    400014: w_1140_portal_c
+    400016: w_1140_portal_a1
+    400018: w_1140_portal_a2
+    400020: d_1118_wall03
+    400022: d_1118_wall004
+    400024: d_1118_wall005
+    400026: d_1118_wall006
+    400028: d_1118_wall007
+    400030: d_1118_wall008
+    400032: d_1118_wall009
+    400034: d_1118_wall010
+    400036: d_1118_wall011
+    2300000: ' 1'
+    2300002: d_1140_table
+    2300004: d_1140_windmill
+    2300006: d_1140_windmill001
+    2300008: w_1140_portal_a
+    2300010: w_1140_portal_b
+    2300012: w_1140_portal_c
+    2300014: w_1140_portal_a1
+    2300016: w_1140_portal_a2
+    2300018: d_1118_wall03
+    2300020: d_1118_wall004
+    2300022: d_1118_wall005
+    2300024: d_1118_wall006
+    2300026: d_1118_wall007
+    2300028: d_1118_wall008
+    2300030: d_1118_wall009
+    2300032: d_1118_wall010
+    2300034: d_1118_wall011
+    3300000: ' 1'
+    3300002: d_1140_table
+    3300004: d_1140_windmill
+    3300006: d_1140_windmill001
+    3300008: w_1140_portal_a
+    3300010: w_1140_portal_b
+    3300012: w_1140_portal_c
+    3300014: w_1140_portal_a1
+    3300016: w_1140_portal_a2
+    3300018: d_1118_wall03
+    3300020: d_1118_wall004
+    3300022: d_1118_wall005
+    3300024: d_1118_wall006
+    3300026: d_1118_wall007
+    3300028: d_1118_wall008
+    3300030: d_1118_wall009
+    3300032: d_1118_wall010
+    3300034: d_1118_wall011
+    4300000: w_1140_portal_a
+    4300002: w_1140_portal_b
+    4300004: w_1140_portal_c
+    4300006: d_1140_table
+    4300008: d_1140_windmill
+    4300010: w_1140_portal_a2
+    4300012: d_1140_windmill001
+    4300014: w_1140_portal_a1
+    4300016: d_1118_wall03
+    4300018: d_1118_wall004
+    4300020: d_1118_wall005
+    4300022: d_1118_wall006
+    4300024: d_1118_wall007
+    4300026: d_1118_wall008
+    4300028: d_1118_wall009
+    4300030: d_1118_wall010
+    4300032: d_1118_wall011
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 2
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 180
+    splitTangentsAcrossUV: 1
+    normalImportMode: 2
+    tangentImportMode: 2
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

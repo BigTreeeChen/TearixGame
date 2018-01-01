@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: tx_1106_floor04_m
+  m_Shader: {fileID: 4800000, guid: c157d34814fad7447914165639e2a947, type: 3}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: b2bab81508f338049a3eb0d74e77d135, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _TransTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 8a3ef44a145b5654db8745d4363dac92, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _AlphaTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _SpecularIllumOther
+        second:
+          m_Texture: {fileID: 2800000, guid: 8a3ef44a145b5654db8745d4363dac92, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Illum
+        second:
+          m_Texture: {fileID: 2800000, guid: 8a3ef44a145b5654db8745d4363dac92, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Range
+        second: .100000001
+      data:
+        first:
+          name: _Section
+        second: 10
+      data:
+        first:
+          name: _Period
+        second: 1
+      data:
+        first:
+          name: _Offset
+        second: 0
+      data:
+        first:
+          name: _Speed
+        second: .200000003
+      data:
+        first:
+          name: _Dist
+        second: .0399999991
+      data:
+        first:
+          name: _SpeedOffset
+        second: .200000003
+      data:
+        first:
+          name: _EmissionLM
+        second: 0
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _OtherColor
+        second: {r: 1, g: 1, b: 1, a: 1}

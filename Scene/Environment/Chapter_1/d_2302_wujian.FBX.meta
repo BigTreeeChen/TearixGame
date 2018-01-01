@@ -1,0 +1,405 @@
+fileFormatVersion: 2
+guid: 8c130a6ed9e02bf45a1e708c6850a8e2
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: d_2302_chongwu_01
+    100002: d_2302_chongwu_02
+    100004: d_2302_pingtai_01a
+    100006: d_2302_pingtai_01b
+    100008: d_2302_pingtai_02a
+    100010: d_2302_pingtai_02b
+    100012: d_2302_pingtai_03a
+    100014: d_2302_pingtai_03b
+    100016: d_2302_pingtai_04a
+    100018: d_2302_pingtai_04b
+    100020: d_2302_shu_01
+    100022: d_2302_shu_02
+    100024: d_2302_shu_03
+    100026: d_2302_shuye_01
+    100028: d_2302_shuye_02
+    100030: d_2302_shuye_03
+    100032: d_2302_shuzhi_01a
+    100034: d_2302_shuzhi_01b
+    100036: d_2302_shuzhi_02a
+    100038: d_2302_shuzhi_02b
+    100040: d_2302_shuzhi_03a
+    100042: d_2302_shuzhi_03b
+    100044: d_2302_shuzhi_04a
+    100046: d_2302_shuzhi_04b
+    100048: //RootNode
+    100050: objLine034
+    100052: d_2302_pingtai_04a001
+    100054: d_2302_louti_01
+    100056: Object001
+    100058: Object002
+    100060: d_2302_chongwu_01 1
+    100062: d_2302_shuye_01 1
+    100064: d_2302_shuzhi_01a 1
+    100066: d_2302_shuzhi_01b 1
+    100068: d_2302_toutie_01
+    100070: d_2302_toutie_02
+    100072: d_2302_toutie_03
+    100074: d_2302_toutie_04
+    100076: d_2302_toutie_05
+    100078: d_2302_toutie_06
+    100080: d_2302_toutie_07
+    100082: d_2302_toutie_08
+    100084: d_2302_louti_02
+    100086: d_2302_shuye_04
+    100088: d_2302_bigtree01
+    100090: d_2302_louti_01 1
+    100092: d_2302_shuye_005
+    100094: d_2302_shuye_04 1
+    100096: d_2302_shuye_05
+    100098: Object006
+    100100: d_2302_louti_03
+    100102: d_2302_louti_04
+    100104: d_2302_louti_05
+    100106: d_2302_louti_06
+    100108: d_2302_louti_07
+    100110: d_2302_louti_08
+    100112: d_2302_pingtai_05a
+    100114: d_2302_pingtai_05b
+    100116: d_2302_pingtai_06
+    100118: d_2302_qiao_01
+    100120: d_2302_qiao_02
+    100122: d_2302_qiao_03
+    100124: Object009
+    100126: d_2302_toutie_09
+    100128: d_2302_toutie_10
+    100130: d_2302_shuzhi_05
+    100132: d_2302_chongwu_003
+    100134: d_2302_shuzhi_05 1
+    100136: d_2302_shuzhi_06
+    100138: d_2302_shuzhi_07
+    100140: d_2302_shuzhi_08
+    100142: d_2302_shuzhi_09
+    100144: d_2302_bigtree01 1
+    100146: d_2302_pingtai_04a 1
+    100148: d_2302_louti_05 1
+    100150: d_2302_louti_06 1
+    400000: d_2302_chongwu_01
+    400002: d_2302_chongwu_02
+    400004: d_2302_pingtai_01a
+    400006: d_2302_pingtai_01b
+    400008: d_2302_pingtai_02a
+    400010: d_2302_pingtai_02b
+    400012: d_2302_pingtai_03a
+    400014: d_2302_pingtai_03b
+    400016: d_2302_pingtai_04a
+    400018: d_2302_pingtai_04b
+    400020: d_2302_shu_01
+    400022: d_2302_shu_02
+    400024: d_2302_shu_03
+    400026: d_2302_shuye_01
+    400028: d_2302_shuye_02
+    400030: d_2302_shuye_03
+    400032: d_2302_shuzhi_01a
+    400034: d_2302_shuzhi_01b
+    400036: d_2302_shuzhi_02a
+    400038: d_2302_shuzhi_02b
+    400040: d_2302_shuzhi_03a
+    400042: d_2302_shuzhi_03b
+    400044: d_2302_shuzhi_04a
+    400046: d_2302_shuzhi_04b
+    400048: //RootNode
+    400050: objLine034
+    400052: d_2302_pingtai_04a001
+    400054: d_2302_louti_01
+    400056: Object001
+    400058: Object002
+    400060: d_2302_chongwu_01 1
+    400062: d_2302_shuye_01 1
+    400064: d_2302_shuzhi_01a 1
+    400066: d_2302_shuzhi_01b 1
+    400068: d_2302_toutie_01
+    400070: d_2302_toutie_02
+    400072: d_2302_toutie_03
+    400074: d_2302_toutie_04
+    400076: d_2302_toutie_05
+    400078: d_2302_toutie_06
+    400080: d_2302_toutie_07
+    400082: d_2302_toutie_08
+    400084: d_2302_louti_02
+    400086: d_2302_shuye_04
+    400088: d_2302_bigtree01
+    400090: d_2302_louti_01 1
+    400092: d_2302_shuye_005
+    400094: d_2302_shuye_04 1
+    400096: d_2302_shuye_05
+    400098: Object006
+    400100: d_2302_louti_03
+    400102: d_2302_louti_04
+    400104: d_2302_louti_05
+    400106: d_2302_louti_06
+    400108: d_2302_louti_07
+    400110: d_2302_louti_08
+    400112: d_2302_pingtai_05a
+    400114: d_2302_pingtai_05b
+    400116: d_2302_pingtai_06
+    400118: d_2302_qiao_01
+    400120: d_2302_qiao_02
+    400122: d_2302_qiao_03
+    400124: Object009
+    400126: d_2302_toutie_09
+    400128: d_2302_toutie_10
+    400130: d_2302_shuzhi_05
+    400132: d_2302_chongwu_003
+    400134: d_2302_shuzhi_05 1
+    400136: d_2302_shuzhi_06
+    400138: d_2302_shuzhi_07
+    400140: d_2302_shuzhi_08
+    400142: d_2302_shuzhi_09
+    400144: d_2302_bigtree01 1
+    400146: d_2302_pingtai_04a 1
+    400148: d_2302_louti_05 1
+    400150: d_2302_louti_06 1
+    2300000: d_2302_chongwu_01
+    2300002: d_2302_chongwu_02
+    2300004: d_2302_pingtai_01a
+    2300006: d_2302_pingtai_01b
+    2300008: d_2302_pingtai_02a
+    2300010: d_2302_pingtai_02b
+    2300012: d_2302_pingtai_03a
+    2300014: d_2302_pingtai_03b
+    2300016: d_2302_pingtai_04a
+    2300018: d_2302_pingtai_04b
+    2300020: d_2302_shu_01
+    2300022: d_2302_shu_02
+    2300024: d_2302_shu_03
+    2300026: d_2302_shuye_01
+    2300028: d_2302_shuye_02
+    2300030: d_2302_shuye_03
+    2300032: d_2302_shuzhi_01a
+    2300034: d_2302_shuzhi_01b
+    2300036: d_2302_shuzhi_02a
+    2300038: d_2302_shuzhi_02b
+    2300040: d_2302_shuzhi_03a
+    2300042: d_2302_shuzhi_03b
+    2300044: d_2302_shuzhi_04a
+    2300046: d_2302_shuzhi_04b
+    2300048: d_2302_pingtai_04a001
+    2300050: d_2302_louti_01
+    2300052: Object001
+    2300054: Object002
+    2300056: d_2302_shuye_01 1
+    2300058: d_2302_shuzhi_01a 1
+    2300060: d_2302_shuzhi_01b 1
+    2300062: d_2302_toutie_01
+    2300064: d_2302_toutie_02
+    2300066: d_2302_toutie_03
+    2300068: d_2302_toutie_04
+    2300070: d_2302_toutie_05
+    2300072: d_2302_toutie_06
+    2300074: d_2302_toutie_07
+    2300076: d_2302_toutie_08
+    2300078: d_2302_chongwu_01 1
+    2300080: d_2302_louti_02
+    2300082: d_2302_shuye_04
+    2300084: d_2302_bigtree01
+    2300086: d_2302_shuye_04 1
+    2300088: d_2302_shuye_05
+    2300090: d_2302_louti_03
+    2300092: d_2302_louti_04
+    2300094: d_2302_louti_05
+    2300096: d_2302_louti_06
+    2300098: d_2302_louti_07
+    2300100: d_2302_louti_08
+    2300102: d_2302_pingtai_05a
+    2300104: d_2302_pingtai_05b
+    2300106: d_2302_pingtai_06
+    2300108: d_2302_qiao_01
+    2300110: d_2302_qiao_02
+    2300112: d_2302_qiao_03
+    2300114: d_2302_toutie_09
+    2300116: d_2302_toutie_10
+    2300118: d_2302_shuzhi_05
+    2300120: d_2302_shuzhi_06
+    2300122: d_2302_shuzhi_07
+    2300124: d_2302_shuzhi_08
+    2300126: d_2302_shuzhi_09
+    2300128: d_2302_shuzhi_05 1
+    2300130: d_2302_bigtree01 1
+    2300132: d_2302_pingtai_04a 1
+    3300000: d_2302_chongwu_01
+    3300002: d_2302_chongwu_02
+    3300004: d_2302_pingtai_01a
+    3300006: d_2302_pingtai_01b
+    3300008: d_2302_pingtai_02a
+    3300010: d_2302_pingtai_02b
+    3300012: d_2302_pingtai_03a
+    3300014: d_2302_pingtai_03b
+    3300016: d_2302_pingtai_04a
+    3300018: d_2302_pingtai_04b
+    3300020: d_2302_shu_01
+    3300022: d_2302_shu_02
+    3300024: d_2302_shu_03
+    3300026: d_2302_shuye_01
+    3300028: d_2302_shuye_02
+    3300030: d_2302_shuye_03
+    3300032: d_2302_shuzhi_01a
+    3300034: d_2302_shuzhi_01b
+    3300036: d_2302_shuzhi_02a
+    3300038: d_2302_shuzhi_02b
+    3300040: d_2302_shuzhi_03a
+    3300042: d_2302_shuzhi_03b
+    3300044: d_2302_shuzhi_04a
+    3300046: d_2302_shuzhi_04b
+    3300048: d_2302_pingtai_04a001
+    3300050: d_2302_louti_01
+    3300052: Object001
+    3300054: Object002
+    3300056: d_2302_shuye_01 1
+    3300058: d_2302_shuzhi_01a 1
+    3300060: d_2302_shuzhi_01b 1
+    3300062: d_2302_toutie_01
+    3300064: d_2302_toutie_02
+    3300066: d_2302_toutie_03
+    3300068: d_2302_toutie_04
+    3300070: d_2302_toutie_05
+    3300072: d_2302_toutie_06
+    3300074: d_2302_toutie_07
+    3300076: d_2302_toutie_08
+    3300078: d_2302_chongwu_01 1
+    3300080: d_2302_louti_02
+    3300082: d_2302_shuye_04
+    3300084: d_2302_bigtree01
+    3300086: d_2302_shuye_04 1
+    3300088: d_2302_shuye_05
+    3300090: d_2302_louti_03
+    3300092: d_2302_louti_04
+    3300094: d_2302_louti_05
+    3300096: d_2302_louti_06
+    3300098: d_2302_louti_07
+    3300100: d_2302_louti_08
+    3300102: d_2302_pingtai_05a
+    3300104: d_2302_pingtai_05b
+    3300106: d_2302_pingtai_06
+    3300108: d_2302_qiao_01
+    3300110: d_2302_qiao_02
+    3300112: d_2302_qiao_03
+    3300114: d_2302_toutie_09
+    3300116: d_2302_toutie_10
+    3300118: d_2302_shuzhi_05
+    3300120: d_2302_shuzhi_06
+    3300122: d_2302_shuzhi_07
+    3300124: d_2302_shuzhi_08
+    3300126: d_2302_shuzhi_09
+    3300128: d_2302_shuzhi_05 1
+    3300130: d_2302_bigtree01 1
+    3300132: d_2302_pingtai_04a 1
+    4300000: d_2302_shuzhi_01a
+    4300002: d_2302_shuzhi_02a
+    4300004: d_2302_shuzhi_04a
+    4300006: d_2302_shuzhi_03a
+    4300008: d_2302_shu_02
+    4300010: d_2302_shu_03
+    4300012: d_2302_shu_01
+    4300014: d_2302_shuye_01
+    4300016: d_2302_shuye_02
+    4300018: d_2302_pingtai_02a
+    4300020: d_2302_pingtai_01a
+    4300022: d_2302_pingtai_04a
+    4300024: d_2302_pingtai_03a
+    4300026: d_2302_chongwu_02
+    4300028: d_2302_shuzhi_01b
+    4300030: d_2302_shuzhi_04b
+    4300032: d_2302_shuzhi_03b
+    4300034: d_2302_shuzhi_02b
+    4300036: d_2302_chongwu_01
+    4300038: d_2302_pingtai_01b
+    4300040: d_2302_pingtai_02b
+    4300042: d_2302_pingtai_03b
+    4300044: d_2302_pingtai_04b
+    4300046: d_2302_shuye_03
+    4300048: d_2302_pingtai_04a001
+    4300050: Object001
+    4300052: d_2302_louti_01
+    4300054: Object002
+    4300056: d_2302_toutie_01
+    4300058: d_2302_toutie_02
+    4300060: d_2302_toutie_03
+    4300062: d_2302_toutie_08
+    4300064: d_2302_toutie_06
+    4300066: d_2302_toutie_07
+    4300068: d_2302_toutie_05
+    4300070: d_2302_toutie_04
+    4300072: d_2302_louti_02
+    4300074: d_2302_shuye_04
+    4300076: d_2302_shuye_05
+    4300078: d_2302_bigtree01
+    4300080: d_2302_pingtai_05a
+    4300082: d_2302_qiao_01
+    4300084: d_2302_louti_03
+    4300086: d_2302_qiao_03
+    4300088: d_2302_pingtai_06
+    4300090: d_2302_qiao_02
+    4300092: d_2302_louti_06
+    4300094: d_2302_louti_07
+    4300096: d_2302_louti_05
+    4300098: d_2302_louti_04
+    4300100: d_2302_louti_08
+    4300102: d_2302_pingtai_05b
+    4300104: d_2302_toutie_09
+    4300106: d_2302_toutie_10
+    4300108: d_2302_shuzhi_05
+    4300110: d_2302_shuzhi_06
+    4300112: d_2302_shuzhi_08
+    4300114: d_2302_shuzhi_09
+    4300116: d_2302_shuzhi_07
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 2
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 2
+    tangentImportMode: 2
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

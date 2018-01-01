@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 12fa2a07e2e57df4e85f7e19a29245d3
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: smyj_wj_001
+    100004: smyj_wj_002
+    100006: smyj_wj_003
+    100008: smyj_wj_004
+    100010: smyj_wj_005
+    100012: smyj_wj_006
+    100014: smyj_wj_007
+    100016: smyj_wj_008
+    100018: smyj_wj_009
+    100020: smyj_wj_010
+    100022: smyj_wj_011
+    100024: smyj_wj_012
+    100026: smyj_wj_013
+    100028: smyj_wj_014
+    100030: smyj_wj_015
+    100032: smyj_wj_016
+    100034: smyj_wj_017
+    400000: //RootNode
+    400002: smyj_wj_001
+    400004: smyj_wj_002
+    400006: smyj_wj_003
+    400008: smyj_wj_004
+    400010: smyj_wj_005
+    400012: smyj_wj_006
+    400014: smyj_wj_007
+    400016: smyj_wj_008
+    400018: smyj_wj_009
+    400020: smyj_wj_010
+    400022: smyj_wj_011
+    400024: smyj_wj_012
+    400026: smyj_wj_013
+    400028: smyj_wj_014
+    400030: smyj_wj_015
+    400032: smyj_wj_016
+    400034: smyj_wj_017
+    2300000: smyj_wj_001
+    2300002: smyj_wj_002
+    2300004: smyj_wj_003
+    2300006: smyj_wj_004
+    2300008: smyj_wj_005
+    2300010: smyj_wj_006
+    2300012: smyj_wj_007
+    2300014: smyj_wj_008
+    2300016: smyj_wj_009
+    2300018: smyj_wj_010
+    2300020: smyj_wj_011
+    2300022: smyj_wj_012
+    2300024: smyj_wj_013
+    2300026: smyj_wj_014
+    2300028: smyj_wj_015
+    2300030: smyj_wj_016
+    2300032: smyj_wj_017
+    3300000: smyj_wj_001
+    3300002: smyj_wj_002
+    3300004: smyj_wj_003
+    3300006: smyj_wj_004
+    3300008: smyj_wj_005
+    3300010: smyj_wj_006
+    3300012: smyj_wj_007
+    3300014: smyj_wj_008
+    3300016: smyj_wj_009
+    3300018: smyj_wj_010
+    3300020: smyj_wj_011
+    3300022: smyj_wj_012
+    3300024: smyj_wj_013
+    3300026: smyj_wj_014
+    3300028: smyj_wj_015
+    3300030: smyj_wj_016
+    3300032: smyj_wj_017
+    4300000: smyj_wj_001
+    4300002: smyj_wj_002
+    4300004: smyj_wj_003
+    4300006: smyj_wj_004
+    4300008: smyj_wj_005
+    4300010: smyj_wj_011
+    4300012: smyj_wj_007
+    4300014: smyj_wj_008
+    4300016: smyj_wj_009
+    4300018: smyj_wj_010
+    4300020: smyj_wj_006
+    4300022: smyj_wj_012
+    4300024: smyj_wj_015
+    4300026: smyj_wj_014
+    4300028: smyj_wj_013
+    4300030: smyj_wj_017
+    4300032: smyj_wj_016
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 2
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 2
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

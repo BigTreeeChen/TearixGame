@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: 29b5fa4f43848b140afe8f5475bc25cd
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: SLXB_guanmu_002
+    100004: XJLD_zw_guanmu_007
+    100006: XJLD_zw_guanmu_008
+    100008: XJLD_zw_guanmu_009
+    100010: XJLD_zw_guanmu_010
+    100012: YGCL_caocong_01
+    100014: YGCL_caocong_03
+    100016: YGCL_caocong_05
+    100018: YGCL_caocong_07
+    100020: YGCL_caocong_08
+    100022: YGCL_grass_007
+    100024: MWCL_wj_guanmu_002
+    100026: d_111301_tree16
+    100028: YGCL_caocong_009
+    400000: //RootNode
+    400002: SLXB_guanmu_002
+    400004: XJLD_zw_guanmu_007
+    400006: XJLD_zw_guanmu_008
+    400008: XJLD_zw_guanmu_009
+    400010: XJLD_zw_guanmu_010
+    400012: YGCL_caocong_01
+    400014: YGCL_caocong_03
+    400016: YGCL_caocong_05
+    400018: YGCL_caocong_07
+    400020: YGCL_caocong_08
+    400022: YGCL_grass_007
+    400024: MWCL_wj_guanmu_002
+    400026: d_111301_tree16
+    400028: YGCL_caocong_009
+    2300000: SLXB_guanmu_002
+    2300002: XJLD_zw_guanmu_007
+    2300004: XJLD_zw_guanmu_008
+    2300006: XJLD_zw_guanmu_009
+    2300008: XJLD_zw_guanmu_010
+    2300010: YGCL_caocong_01
+    2300012: YGCL_caocong_03
+    2300014: YGCL_caocong_05
+    2300016: YGCL_caocong_07
+    2300018: YGCL_caocong_08
+    2300020: YGCL_grass_007
+    2300022: MWCL_wj_guanmu_002
+    2300024: d_111301_tree16
+    2300026: YGCL_caocong_009
+    3300000: SLXB_guanmu_002
+    3300002: XJLD_zw_guanmu_007
+    3300004: XJLD_zw_guanmu_008
+    3300006: XJLD_zw_guanmu_009
+    3300008: XJLD_zw_guanmu_010
+    3300010: YGCL_caocong_01
+    3300012: YGCL_caocong_03
+    3300014: YGCL_caocong_05
+    3300016: YGCL_caocong_07
+    3300018: YGCL_caocong_08
+    3300020: YGCL_grass_007
+    3300022: MWCL_wj_guanmu_002
+    3300024: d_111301_tree16
+    3300026: YGCL_caocong_009
+    4300000: XJLD_zw_guanmu_007
+    4300002: XJLD_zw_guanmu_008
+    4300004: XJLD_zw_guanmu_009
+    4300006: XJLD_zw_guanmu_010
+    4300008: YGCL_grass_007
+    4300010: SLXB_guanmu_002
+    4300012: YGCL_caocong_01
+    4300014: YGCL_caocong_08
+    4300016: YGCL_caocong_07
+    4300018: YGCL_caocong_05
+    4300020: YGCL_caocong_03
+    4300022: MWCL_wj_guanmu_002
+    4300024: d_111301_tree16
+    4300026: YGCL_caocong_009
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 2
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 180
+    splitTangentsAcrossUV: 1
+    normalImportMode: 2
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
