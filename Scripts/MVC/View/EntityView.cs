@@ -2,6 +2,7 @@
 using System.Collections;
 using UnityEngine;
 using Core.MVC;
+using TGameAsset;
 
 namespace TGame.Entity
 {
@@ -11,12 +12,29 @@ namespace TGame.Entity
 
         public abstract void F_DoRegComponents();
         public abstract void F_RetSet();
-        public abstract void F_Delete();
 
         // 加载一个EntityView所需要的接口
-        public abstract void F_InitView();
-        public abstract void F_OnViewLoadFinish(Object obj);
+        public virtual void F_InitView()
+        {
+            InitListenEvent();
+            InitViewScript();
+            InitEntityView();
+        }
+
+        protected virtual void InitEntityView()
+        {
+            AssetManager.GetInstance().F_GetAsset(F_GetResPath(), OnViewLoadFinish, true);
+        }
+
+        protected abstract void InitListenEvent();
+        protected abstract void InitViewScript();
+        protected abstract void OnViewLoadFinish(Object obj);
         public abstract string F_GetResPath();
+
+        protected override void OnDestroy()
+        {
+            base.OnDestroy();
+        }
     }
 }
 

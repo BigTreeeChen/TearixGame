@@ -22,6 +22,10 @@ namespace TGame.Entity
             }
         }
 
+        public bool F_IsPlayer()
+        {
+            return V_Type == EM_EntityType.Player || V_Type == EM_EntityType.User;
+        }
         // 是否隐身
         public bool F_IsStealth()
         {
@@ -79,6 +83,12 @@ namespace TGame.Entity
             {
                 m_FightView.F_TakeDataEffective(EM_EntityDataEffectiveToView.Position);
             }
+        }
+
+        public Vector3 get_position()
+        {
+            if (m_FightView != null) return m_FightView.get_position();
+            return V_Pos;
         }
         #region about animator
         #endregion

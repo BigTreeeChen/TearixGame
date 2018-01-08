@@ -39,11 +39,6 @@ namespace TGame.Entity
 
         }
 
-        public override void F_Delete()
-        {
-
-        }
-
         public override string F_GetResPath()
         {
             throw new NotImplementedException();
@@ -54,7 +49,17 @@ namespace TGame.Entity
             throw new NotImplementedException();
         }
 
-        public override void F_OnViewLoadFinish(UnityEngine.Object obj)
+        protected override void InitListenEvent()
+        {
+            throw new NotImplementedException();
+        }
+
+        protected override void InitViewScript()
+        {
+            throw new NotImplementedException();
+        }
+
+        protected override void OnViewLoadFinish(UnityEngine.Object obj)
         {
             throw new NotImplementedException();
         }
