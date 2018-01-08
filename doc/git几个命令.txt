@@ -1,0 +1,17 @@
+echo "# Test1" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/cshuyue/Test1.git
+git push -u origin master
+
+
+
+git fetch url把远程库下载到本地库
+git merge url把本地库和本地进行合并
+git pull url把远程库下到本地库并和本地合并
+pull=fetch+merge
+并且写法上，可以通过origin,master指定某个库或分支：
+git fetch origin master
+git merge origin/master
+git pull origin master
