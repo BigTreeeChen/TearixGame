@@ -13,7 +13,7 @@ namespace TGame.Entity
         public float V_Angle = 0;
         private bool is_render_enabled_ = true;
         protected bool attackable_ = true;
-        EntityFightView m_FightView
+        public EntityFightView m_FightView
         {
             get {
                 if (m_View != null)
