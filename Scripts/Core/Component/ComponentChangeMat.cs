@@ -53,7 +53,7 @@ namespace TGameEngine
             }
         }
 
-        public void F_AddMat(float lastTime, System.Object[] args, EM_MatType matType,
+        public MatInfo F_AddMat(float lastTime, System.Object[] args, EM_MatType matType,
             float changeTime = 0.8f, EM_MatPriority matPri = EM_MatPriority.Default)
         {
             MatInfo matInfo = new MatInfo();
@@ -65,6 +65,7 @@ namespace TGameEngine
             matInfo.v_Type = matType;
             m_MatList.Add(matInfo);
             OnMatListChange();
+            return matInfo;
         }
 
         public void F_RemoveMat(MatInfo m)

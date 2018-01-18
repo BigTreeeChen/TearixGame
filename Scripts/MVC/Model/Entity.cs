@@ -34,6 +34,15 @@ namespace TGame.Entity
             return V_ComRoot.get_COM(_id);
         }
 
+        public ComponentChangeMat V_ChangeMatCom
+        {
+            get
+            {
+                var com = F_GetCom(ComponentDefine.ComponentBuffMat);
+                if (com == null) return null;
+                return com as ComponentChangeMat;
+            }
+        }
     }
 }
 
